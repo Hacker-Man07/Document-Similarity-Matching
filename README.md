@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 ### Running the Code
 #### Prepare Data:
-
+- Create a data folder and make 2 subfolder named training and testing.
 - Place your training invoice PDF files in the data/training/ directory.
 - Place your testing invoice PDF files in the data/testing/ directory.
 
